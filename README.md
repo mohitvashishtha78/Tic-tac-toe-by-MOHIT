@@ -3,7 +3,7 @@
   
 <head>
 
-    <title>Mohit's tic-toc-toe</title>
+    <title><b>Mohit's tic-toc-toe</b></title>
     <meta name="viewport" content=
         "width=device-width, initial-scale=1.0">
   
